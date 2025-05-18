@@ -1,1 +1,1 @@
-# xdisplayname
+XDisplayName
